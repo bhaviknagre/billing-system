@@ -1,0 +1,8 @@
+{
+  "appId": "com.hisaab.billing",
+  "appName": "Hisaab",
+  "webDir": "www",
+  "plugins": {
+    "SystemBars": { "insetsHandling": "css", "initialViewportFitValueHint": "cover" }
+  }
+}
